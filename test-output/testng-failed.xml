@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="15" name="Failed suite [mysuite]" parallel="tests">
+  <test thread-count="15" name="Test validate FIREFOXorg.atmecs.website.testscripts.Insights(failed)" parallel="tests">
+    <parameter name="Name" value="FIREFOX"/>
+    <classes>
+      <class name="org.atmecs.website.testscripts.Insights">
+        <methods>
+          <include name="baseSetup"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="validateBlogs"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- org.atmecs.website.testscripts.Insights -->
+    </classes>
+  </test> <!-- Test validate FIREFOXorg.atmecs.website.testscripts.Insights(failed) -->
+  <test thread-count="15" name="Test validate FIREFOXorg.atmecs.website.testscripts.Home(failed)" parallel="tests">
+    <parameter name="Name" value="FIREFOX"/>
+    <classes>
+      <class name="org.atmecs.website.testscripts.Home">
+        <methods>
+          <include name="footerValidate"/>
+          <include name="baseSetup"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- org.atmecs.website.testscripts.Home -->
+    </classes>
+  </test> <!-- Test validate FIREFOXorg.atmecs.website.testscripts.Home(failed) -->
+  <test thread-count="15" name="Test validate FIREFOXorg.atmecs.website.testscripts.Services(failed)" parallel="tests">
+    <parameter name="Name" value="FIREFOX"/>
+    <classes>
+      <class name="org.atmecs.website.testscripts.Services">
+        <methods>
+          <include name="servicesOptionCheck"/>
+          <include name="baseSetup"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- org.atmecs.website.testscripts.Services -->
+    </classes>
+  </test> <!-- Test validate FIREFOXorg.atmecs.website.testscripts.Services(failed) -->
+  <test thread-count="15" name="Test validate IEorg.atmecs.website.testscripts.Insights(failed)" parallel="tests">
+    <parameter name="Name" value="IE"/>
+    <classes>
+      <class name="org.atmecs.website.testscripts.Insights">
+        <methods>
+          <include name="baseSetup"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="validateBlogs" invocation-numbers="0"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- org.atmecs.website.testscripts.Insights -->
+    </classes>
+  </test> <!-- Test validate IEorg.atmecs.website.testscripts.Insights(failed) -->
+</suite> <!-- Failed suite [mysuite] -->

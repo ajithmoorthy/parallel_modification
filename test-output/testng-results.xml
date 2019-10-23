@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="3" failed="1" ignored="0" total="9" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="182805" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:09:23Z">
+    <groups>
+    </groups>
+    <test name="Test validate FIREFOXorg.atmecs.website.testscripts.Insights" duration-ms="70318" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:31Z">
+      <class name="org.atmecs.website.testscripts.Insights">
+        <test-method status="FAIL" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Insights@694abbdc]" name="baseSetup" is-config="true" duration-ms="70261" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+at org.atmecs.website.testbase.TestBase.baseSetup(TestBase.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="SKIP" signature="validateBlogs(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.website.testscripts.Insights@694abbdc]" name="validateBlogs" duration-ms="0" started-at="2019-10-23T13:07:30Z" data-provider="insightsdata" finished-at="2019-10-23T13:07:30Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+at org.atmecs.website.testbase.TestBase.baseSetup(TestBase.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBlogs -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Insights@694abbdc]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-23T13:07:30Z" finished-at="2019-10-23T13:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Insights -->
+    </test> <!-- Test validate FIREFOXorg.atmecs.website.testscripts.Insights -->
+    <test name="Test validate FIREFOXorg.atmecs.website.testscripts.Home" duration-ms="70974" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:31Z">
+      <class name="org.atmecs.website.testscripts.Home">
+        <test-method status="FAIL" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@15ff3e9e]" name="baseSetup" is-config="true" duration-ms="70333" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+at org.atmecs.website.testbase.TestBase.baseSetup(TestBase.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Home@15ff3e9e]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-23T13:07:31Z" finished-at="2019-10-23T13:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@15ff3e9e]" name="footerValidate" duration-ms="0" started-at="2019-10-23T13:07:31Z" data-provider="footerdata" finished-at="2019-10-23T13:07:31Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+at org.atmecs.website.testbase.TestBase.baseSetup(TestBase.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidate -->
+      </class> <!-- org.atmecs.website.testscripts.Home -->
+    </test> <!-- Test validate FIREFOXorg.atmecs.website.testscripts.Home -->
+    <test name="Test validate FIREFOXorg.atmecs.website.testscripts.Services" duration-ms="70249" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:31Z">
+      <class name="org.atmecs.website.testscripts.Services">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.website.testscripts.Services@6379eb]" name="startReport" is-config="true" duration-ms="251" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="FAIL" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Services@6379eb]" name="baseSetup" is-config="true" duration-ms="69453" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+at org.atmecs.website.testbase.TestBase.baseSetup(TestBase.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Services@6379eb]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-23T13:07:31Z" finished-at="2019-10-23T13:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="servicesOptionCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.website.testscripts.Services@6379eb]" name="servicesOptionCheck" duration-ms="0" started-at="2019-10-23T13:07:31Z" data-provider="servicesdata" finished-at="2019-10-23T13:07:31Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: connection refused
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+at org.atmecs.website.testbase.TestBase.baseSetup(TestBase.java:76)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- servicesOptionCheck -->
+        <test-method status="SKIP" signature="endReport()[pri:0, instance:org.atmecs.website.testscripts.Services@6379eb]" name="endReport" is-config="true" duration-ms="0" started-at="2019-10-23T13:09:23Z" finished-at="2019-10-23T13:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- org.atmecs.website.testscripts.Services -->
+    </test> <!-- Test validate FIREFOXorg.atmecs.website.testscripts.Services -->
+    <test name="Test validate CHROMEorg.atmecs.website.testscripts.Services" duration-ms="103738" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:08:04Z">
+      <class name="org.atmecs.website.testscripts.Services">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Services@4fb61f4a]" name="baseSetup" is-config="true" duration-ms="70399" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="servicesOptionCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.website.testscripts.Services@4fb61f4a]" name="servicesOptionCheck" duration-ms="23191" started-at="2019-10-23T13:07:31Z" data-provider="servicesdata" finished-at="2019-10-23T13:07:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Infrastructure Management]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Cloud Infrastructure]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Devops]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NOC Services]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Data Center Management]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- servicesOptionCheck -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Services@4fb61f4a]" name="tearDown" is-config="true" duration-ms="10108" started-at="2019-10-23T13:07:54Z" finished-at="2019-10-23T13:08:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=servicesOptionCheck status=SUCCESS method=Services.servicesOptionCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.website.testscripts.Services@4fb61f4a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Services -->
+    </test> <!-- Test validate CHROMEorg.atmecs.website.testscripts.Services -->
+    <test name="Test validate IEorg.atmecs.website.testscripts.Services" duration-ms="145309" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:08:46Z">
+      <class name="org.atmecs.website.testscripts.Services">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Services@1fa268de]" name="baseSetup" is-config="true" duration-ms="111785" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:08:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="servicesOptionCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.website.testscripts.Services@1fa268de]" name="servicesOptionCheck" duration-ms="32215" started-at="2019-10-23T13:08:12Z" data-provider="servicesdata" finished-at="2019-10-23T13:08:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Infrastructure Management]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Cloud Infrastructure]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Devops]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NOC Services]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Data Center Management]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- servicesOptionCheck -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Services@1fa268de]" name="tearDown" is-config="true" duration-ms="1277" started-at="2019-10-23T13:08:44Z" finished-at="2019-10-23T13:08:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=servicesOptionCheck status=SUCCESS method=Services.servicesOptionCheck(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.website.testscripts.Services@1fa268de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Services -->
+    </test> <!-- Test validate IEorg.atmecs.website.testscripts.Services -->
+    <test name="Test validate CHROMEorg.atmecs.website.testscripts.Home" duration-ms="149108" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:08:49Z">
+      <class name="org.atmecs.website.testscripts.Home">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@14dd9eb7]" name="baseSetup" is-config="true" duration-ms="70338" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@14dd9eb7]" name="footerValidate" duration-ms="68290" started-at="2019-10-23T13:07:31Z" data-provider="footerdata" finished-at="2019-10-23T13:08:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sitemap]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[News]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[Home | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[About Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[Partners | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[Careers | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[Contact Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidate -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Home@14dd9eb7]" name="tearDown" is-config="true" duration-ms="9777" started-at="2019-10-23T13:08:39Z" finished-at="2019-10-23T13:08:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerValidate status=SUCCESS method=Home.footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@14dd9eb7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Home -->
+    </test> <!-- Test validate CHROMEorg.atmecs.website.testscripts.Home -->
+    <test name="Test validate IEorg.atmecs.website.testscripts.Insights" duration-ms="173752" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:09:14Z">
+      <class name="org.atmecs.website.testscripts.Insights">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Insights@71809907]" name="baseSetup" is-config="true" duration-ms="108909" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:08:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="FAIL" signature="validateBlogs(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.website.testscripts.Insights@71809907]" name="validateBlogs" duration-ms="64273" started-at="2019-10-23T13:08:09Z" data-provider="insightsdata" finished-at="2019-10-23T13:09:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Debunking Myths about AI]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Home › AI › Debunking Myths about AI]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //div[@style='text-align: left'] (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@style='text-align: left'] (tried for 20 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at org.atmecs.website.helper.ValidaterHelper.sample(ValidaterHelper.java:121)
+at org.atmecs.website.pages.InsightsPage.validateBlogs(InsightsPage.java:24)
+at org.atmecs.website.testscripts.Insights.validateBlogs(Insights.java:28)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to find element with xpath == //div[@style='text-align: left']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: true, ignoreZoomSetting: false, initialBrowserUrl: , nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: a5b51e7f-36de-4522-ae3a-6485ff818b3d
+*** Element info: {Using=xpath, value=//div[@style='text-align: left']}
+at sun.reflect.GeneratedConstructorAccessor27.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
+at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 23 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBlogs -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Insights@71809907]" name="tearDown" is-config="true" duration-ms="542" started-at="2019-10-23T13:09:13Z" finished-at="2019-10-23T13:09:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateBlogs status=FAILURE method=Insights.validateBlogs(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.website.testscripts.Insights@71809907] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Insights -->
+    </test> <!-- Test validate IEorg.atmecs.website.testscripts.Insights -->
+    <test name="Test validate CHROMEorg.atmecs.website.testscripts.Insights" duration-ms="181703" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:09:22Z">
+      <class name="org.atmecs.website.testscripts.Insights">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Insights@7c729a55]" name="baseSetup" is-config="true" duration-ms="60364" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:07:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateBlogs(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.website.testscripts.Insights@7c729a55]" name="validateBlogs" duration-ms="119903" started-at="2019-10-23T13:07:21Z" data-provider="insightsdata" finished-at="2019-10-23T13:09:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Debunking Myths about AI]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Home › AI › Debunking Myths about AI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBlogs -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Insights@7c729a55]" name="tearDown" is-config="true" duration-ms="1247" started-at="2019-10-23T13:09:21Z" finished-at="2019-10-23T13:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateBlogs status=SUCCESS method=Insights.validateBlogs(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.website.testscripts.Insights@7c729a55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Insights -->
+    </test> <!-- Test validate CHROMEorg.atmecs.website.testscripts.Insights -->
+    <test name="Test validate IEorg.atmecs.website.testscripts.Home" duration-ms="182805" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:09:23Z">
+      <class name="org.atmecs.website.testscripts.Home">
+        <test-method status="PASS" signature="baseSetup(java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@384ad17b]" name="baseSetup" is-config="true" duration-ms="111876" started-at="2019-10-23T13:06:20Z" finished-at="2019-10-23T13:08:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@384ad17b]" name="footerValidate" duration-ms="70441" started-at="2019-10-23T13:08:12Z" data-provider="footerdata" finished-at="2019-10-23T13:09:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sitemap]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[About Us]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Partners]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Case Studies old]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[News]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Quality Engineering]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Cloud Services]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Enterprise Analytics]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Mobile Computing]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Product Engineering]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Careers]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Automation Engineer]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[DevOps Engineer]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Senior .NET Engineer]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[Senior Java/J2EE Engineer]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Contact Us]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[US Headquarters]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[US R&D Center]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[India – Hyderabad]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[India – Bangalore]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[India – Chennai]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[info@atmecs.com]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Europe – Ireland]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[Home | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[About Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[Partners | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[Careers | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[Contact Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidate -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.website.testscripts.Home@384ad17b]" name="tearDown" is-config="true" duration-ms="418" started-at="2019-10-23T13:09:23Z" finished-at="2019-10-23T13:09:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=footerValidate status=SUCCESS method=Home.footerValidate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.atmecs.website.testscripts.Home@384ad17b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.atmecs.website.testscripts.Home -->
+    </test> <!-- Test validate IEorg.atmecs.website.testscripts.Home -->
+  </suite> <!-- mysuite -->
+</testng-results>

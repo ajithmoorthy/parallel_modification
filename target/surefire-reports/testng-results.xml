@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="187708" started-at="2019-10-23T13:06:18Z" finished-at="2019-10-23T13:09:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="187708" started-at="2019-10-23T13:06:18Z" finished-at="2019-10-23T13:09:26Z">
+      <class name="org.atmecs.website.testscripts.TestNGMethod">
+        <test-method status="PASS" signature="xmlsuite()[pri:0, instance:org.atmecs.website.testscripts.TestNGMethod@3f2a3a5]" name="xmlsuite" duration-ms="187652" started-at="2019-10-23T13:06:18Z" finished-at="2019-10-23T13:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlsuite -->
+      </class> <!-- org.atmecs.website.testscripts.TestNGMethod -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
