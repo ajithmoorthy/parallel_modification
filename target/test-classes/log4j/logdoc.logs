@@ -28335,3 +28335,444 @@ ATMECS AI Infographic is validated succesfully
 2019-10-23 18:34:30 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
 2019-10-23 18:34:30 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
 2019-10-23 18:34:30 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:37:20 INFO  LogReporter:18 - url is loaded
+2019-10-23 18:37:30 INFO  LogReporter:18 - url is loaded
+2019-10-23 18:37:31 INFO  LogReporter:18 - url is loaded
+2019-10-23 18:37:36 INFO  LogReporter:18 - Document title is validated :Home | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:37:48 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:37:51 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:37:51 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:37:51 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:37:51 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:37:51 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:37:54 INFO  LogReporter:18 - Actual Value :Infrastructure Management and Expected :Infrastructure Management is validated succesfully
+2019-10-23 18:37:54 INFO  LogReporter:18 - Actual Value :Cloud Infrastructure and Expected :Cloud Infrastructure is validated succesfully
+2019-10-23 18:37:54 INFO  LogReporter:18 - Actual Value :Devops and Expected :Devops is validated succesfully
+2019-10-23 18:37:54 INFO  LogReporter:18 - Actual Value :NOC Services and Expected :NOC Services is validated succesfully
+2019-10-23 18:37:54 INFO  LogReporter:18 - Actual Value :Data Center Management and Expected :Data Center Management is validated succesfully
+2019-10-23 18:37:55 INFO  LogReporter:18 - Document title is validated :About Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:01 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:09 INFO  LogReporter:18 - url is loaded
+2019-10-23 18:38:12 INFO  LogReporter:18 - url is loaded
+2019-10-23 18:38:12 INFO  LogReporter:18 - url is loaded
+2019-10-23 18:38:13 INFO  LogReporter:18 - Document title is validated :Home | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:14 INFO  LogReporter:18 - Document title is validated :Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:15 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:21 INFO  LogReporter:18 - Document title is validated :Partners | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:23 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:24 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:33 INFO  LogReporter:18 - Document title is validated :Careers | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:33 INFO  LogReporter:18 - Document title is not match with Expected :Home | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:34 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:35 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:35 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:35 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:35 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:35 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:38 INFO  LogReporter:18 - Document title is not match with Expected :Contact Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:39 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:38:44 INFO  LogReporter:18 - Actual Value :Infrastructure Management and Expected :Infrastructure Management is validated succesfully
+2019-10-23 18:38:44 INFO  LogReporter:18 - Actual Value :Cloud Infrastructure and Expected :Cloud Infrastructure is validated succesfully
+2019-10-23 18:38:44 INFO  LogReporter:18 - Actual Value :Devops and Expected :Devops is validated succesfully
+2019-10-23 18:38:44 INFO  LogReporter:18 - Actual Value :NOC Services and Expected :NOC Services is validated succesfully
+2019-10-23 18:38:44 INFO  LogReporter:18 - Actual Value :Data Center Management and Expected :Data Center Management is validated succesfully
+2019-10-23 18:38:53 INFO  LogReporter:18 - Document title is validated :Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:38:57 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:39:00 INFO  LogReporter:18 - Document title is not match with Expected :Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:39:04 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:39:09 INFO  LogReporter:18 - Document title is not match with Expected :Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:39:10 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
+2019-10-23 18:39:16 INFO  LogReporter:18 - Actual Value :Home › AI › Debunking Myths about AI and Expected :Home › AI › Debunking Myths about AI is validated succesfully
+2019-10-23 18:39:16 INFO  LogReporter:18 - Actual Value :Debunking Myths about AI and Expected :Debunking Myths about AI is validated succesfully
+2019-10-23 18:39:16 INFO  LogReporter:18 - Actual Value :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic and Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic is validated succesfully
+2019-10-23 18:39:16 INFO  LogReporter:18 - Actual Value :March 15, 2019 and Expected :March 15, 2019 is validated succesfully
+2019-10-23 18:39:20 INFO  LogReporter:18 - Document title is not match with Expected :Contact Us | Atmecs, Inc. | Digital Solutions & Product Engineering Services
+2019-10-23 18:39:21 INFO  LogReporter:18 - Toast meaasage is Displayed sucessfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Sitemap and Expected :Sitemap is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Home and Expected :Home is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :About Us and Expected :About Us is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Partners and Expected :Partners is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Case Studies old and Expected :Case Studies old is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :News and Expected :News is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Services and Expected :Services is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Artificial Intelligence / Machine Learning and Expected :Artificial Intelligence / Machine Learning is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Augmented Reality / Virtual Reality and Expected :Augmented Reality / Virtual Reality is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Quality Engineering and Expected :Quality Engineering is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Blockchain and Expected :Blockchain is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Robotic Process Automation & ChatBOTs and Expected :Robotic Process Automation & ChatBOTs is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Cloud Services and Expected :Cloud Services is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Enterprise Analytics and Expected :Enterprise Analytics is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Internet of Things and Expected :Internet of Things is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Mobile Computing and Expected :Mobile Computing is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Product Engineering and Expected :Product Engineering is validated succesfully
+2019-10-23 18:39:22 INFO  LogReporter:18 - Actual Value :Careers and Expected :Careers is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :Automation Engineer and Expected :Automation Engineer is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :DevOps Engineer and Expected :DevOps Engineer is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :Senior .NET Engineer and Expected :Senior .NET Engineer is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :Senior Java/J2EE Engineer and Expected :Senior Java/J2EE Engineer is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :Contact Us and Expected :Contact Us is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :US Headquarters and Expected :US Headquarters is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :US R&D Center and Expected :US R&D Center is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :India – Hyderabad and Expected :India – Hyderabad is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :India – Bangalore and Expected :India – Bangalore is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :India – Chennai and Expected :India – Chennai is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :info@atmecs.com and Expected :info@atmecs.com is validated succesfully
+2019-10-23 18:39:23 INFO  LogReporter:18 - Actual Value :Europe – Ireland and Expected :Europe – Ireland is validated succesfully
